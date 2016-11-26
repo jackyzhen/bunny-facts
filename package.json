@@ -1,0 +1,11 @@
+{
+  "name": "bunny-facts",
+  "version": "0.1.3",
+  "description": "This is a website that has bunny facts...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacky Zhen & Sadhana Chandra Mohan",
+  "license": "ISC"
+}
