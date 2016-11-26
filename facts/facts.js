@@ -12,6 +12,6 @@ module.exports = [
   'Bunnies reproduce very quickly. This can be a major headache for people living in agricultural areas where bunnies are seen as pests.',
   'Bunnies are born with their eyes closed and without fur.',
   'Bunnies are also known as rabbits.',
-  'Bunnies often have <strong>two</strong> ears.',
-  'Carrots are actually <i>sometimes</i> for bunnies.'
+  'Bunnies often have two ears.',
+  'Carrots are actually sometimes for bunnies.'
 ]
