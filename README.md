@@ -8,4 +8,4 @@ This is for you Meera!
 
 # Usage
 
-```npm start``
+`npm start`
