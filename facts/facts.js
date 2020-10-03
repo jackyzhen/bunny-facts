@@ -13,5 +13,14 @@ module.exports = [
   'Bunnies are born with their eyes closed and without fur.',
   'Bunnies are also known as rabbits.',
   'Bunnies often have two ears.',
-  'Carrots are actually sometimes for bunnies.'
+  'Carrots are actually sometimes for bunnies.',
+  'Rabbits purr when they\'re happy. It\'s not the same as a cat\'s purr, though. It sounds like teeth chattering or light chomping.',
+  'Rabbits\' nails and teeth never stop growing.',
+  'Rabbits cannot vomit due to the physiology of their digestive system.',
+  'When rabbits are happy or excited they perform a movement called a binky.',
+  'Bunnies can be litter trained.',
+  'With their eyes placed wide apart bunnies can easily see behind them.',
+  'Rabbits can be literally "scared to death" if approached by a predator when they are totally unaware.',
+  'A rabbit sweats only from its pad on the feet.',
+  'When stressed or excited, your rabbit\'s nose can twitch up to 120 times a minute.',
 ]
